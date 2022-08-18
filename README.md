@@ -1,4 +1,4 @@
-# DFIR-self-study-
+# DFIR Self Study Log
 Free and Affordable Digital Forensics &amp; Incident Response Training - Self Study Log
 
 This Self Study Log will follw this site [DFIR Diva](https://training.dfirdiva.com/listing-category/dfir)
